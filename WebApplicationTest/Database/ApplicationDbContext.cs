@@ -10,10 +10,11 @@ namespace WebApplicationTest.Domain
     {
         public DbSet<Product> Products { get; set; }
         public DbSet<Category> Categories { get; set; }
-        public DbSet<User> Users { get; set; }
+        public DbSet<User> Users { get; set; } 
         public ApplicationDbContext(DbContextOptions<ApplicationDbContext> context) : base(context)
         {
-
+            
+        
         }
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {

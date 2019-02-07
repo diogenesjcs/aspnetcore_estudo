@@ -14053,11 +14053,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\djcs\\source\\repos\\WebApplicationTest\\WebApplicationTest.Test\\WebApplicationTest.Test.csproj",
+      "projectUniqueName": "C:\\Users\\djcs\\source\\repos\\WebApplicationTest\\WebApplicationTest.Test\\WebApplicationTest.Test.csproj",
       "projectName": "WebApplicationTest.Test",
-      "projectPath": "c:\\Users\\djcs\\source\\repos\\WebApplicationTest\\WebApplicationTest.Test\\WebApplicationTest.Test.csproj",
+      "projectPath": "C:\\Users\\djcs\\source\\repos\\WebApplicationTest\\WebApplicationTest.Test\\WebApplicationTest.Test.csproj",
       "packagesPath": "C:\\Users\\djcs\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\djcs\\source\\repos\\WebApplicationTest\\WebApplicationTest.Test\\obj\\",
+      "outputPath": "C:\\Users\\djcs\\source\\repos\\WebApplicationTest\\WebApplicationTest.Test\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -14076,8 +14076,8 @@
       "frameworks": {
         "netcoreapp2.1": {
           "projectReferences": {
-            "c:\\Users\\djcs\\source\\repos\\WebApplicationTest\\WebApplicationTest\\WebApplicationTest.csproj": {
-              "projectPath": "c:\\Users\\djcs\\source\\repos\\WebApplicationTest\\WebApplicationTest\\WebApplicationTest.csproj"
+            "C:\\Users\\djcs\\source\\repos\\WebApplicationTest\\WebApplicationTest\\WebApplicationTest.csproj": {
+              "projectPath": "C:\\Users\\djcs\\source\\repos\\WebApplicationTest\\WebApplicationTest\\WebApplicationTest.csproj"
             }
           }
         }

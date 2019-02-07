@@ -8,36 +8,32 @@ using Microsoft.AspNetCore.Mvc;
 using WebApplicationTest.Domain;
 using WebApplicationTest.Services;
 
-namespace WebApplicationTest.Controllers
-{
-    [Route("api/users")]
+namespace WebApplicationTest.Controllers {
+    [Route ("api/users")]
     [ApiController]
-    public class UsersController : ControllerBase
-    {
+    public class UsersController : ControllerBase {
         private IUserService _userService;
 
-        public UsersController(IUserService userService)
-        {
+        public UsersController (IUserService userService) {
             _userService = userService;
         }
 
         [AllowAnonymous]
-        [HttpPost("authenticate")]
-        public IActionResult Authenticate([FromBody]User userParam)
-        {
-            var user = _userService.Authenticate(userParam.Username, userParam.Password);
+        [HttpPost ("authenticate")]
+        public IActionResult Authenticate ([FromBody] User userParam) {
+            var user = _userService.Authenticate (userParam.Username, userParam.Password);
 
             if (user == null)
-                return BadRequest(new { message = "Username or password is incorrect" });
+                return BadRequest (new { message = "Username or password is incorrect" });
 
-            return Ok(user);
+            return Ok (user);
         }
 
+        [Authorize]
         [HttpGet]
-        public IActionResult GetAll()
-        {
-            var users = _userService.Read();
-            return Ok(users);
+        public IActionResult GetAll () {
+            var users = _userService.Read ();
+            return Ok (users);
         }
     }
 }

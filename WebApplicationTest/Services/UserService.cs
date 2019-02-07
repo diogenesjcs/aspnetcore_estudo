@@ -21,6 +21,10 @@ namespace WebApplicationTest.Services
             _context = context;
             _context.Database.EnsureCreated();
             _appSettings = appSettings.Value;
+
+            _context.Users.Add(
+            new User { Id = 1, FirstName = "Test", LastName = "User", Username = "test", Password = "test" } 
+        );
         }
 
         public User Authenticate(string username, string password)
