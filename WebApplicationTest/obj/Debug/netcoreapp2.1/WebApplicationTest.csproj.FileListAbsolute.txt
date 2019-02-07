@@ -1,0 +1,14 @@
+c:\users\djcs\source\repos\WebApplicationTest\WebApplicationTest\bin\Debug\netcoreapp2.1\WebApplicationTest.deps.json
+c:\users\djcs\source\repos\WebApplicationTest\WebApplicationTest\bin\Debug\netcoreapp2.1\WebApplicationTest.runtimeconfig.json
+c:\users\djcs\source\repos\WebApplicationTest\WebApplicationTest\bin\Debug\netcoreapp2.1\WebApplicationTest.runtimeconfig.dev.json
+c:\users\djcs\source\repos\WebApplicationTest\WebApplicationTest\bin\Debug\netcoreapp2.1\WebApplicationTest.dll
+c:\users\djcs\source\repos\WebApplicationTest\WebApplicationTest\obj\Debug\netcoreapp2.1\WebApplicationTest.csprojAssemblyReference.cache
+c:\users\djcs\source\repos\WebApplicationTest\WebApplicationTest\obj\Debug\netcoreapp2.1\WebApplicationTest.csproj.CoreCompileInputs.cache
+c:\users\djcs\source\repos\WebApplicationTest\WebApplicationTest\obj\Debug\netcoreapp2.1\WebApplicationTest.RazorAssemblyInfo.cache
+c:\users\djcs\source\repos\WebApplicationTest\WebApplicationTest\obj\Debug\netcoreapp2.1\WebApplicationTest.RazorAssemblyInfo.cs
+c:\users\djcs\source\repos\WebApplicationTest\WebApplicationTest\obj\Debug\netcoreapp2.1\WebApplicationTest.AssemblyInfoInputs.cache
+c:\users\djcs\source\repos\WebApplicationTest\WebApplicationTest\obj\Debug\netcoreapp2.1\WebApplicationTest.AssemblyInfo.cs
+c:\users\djcs\source\repos\WebApplicationTest\WebApplicationTest\obj\Debug\netcoreapp2.1\WebApplicationTest.RazorTargetAssemblyInfo.cache
+c:\users\djcs\source\repos\WebApplicationTest\WebApplicationTest\bin\Debug\netcoreapp2.1\WebApplicationTest.pdb
+c:\users\djcs\source\repos\WebApplicationTest\WebApplicationTest\obj\Debug\netcoreapp2.1\WebApplicationTest.dll
+c:\users\djcs\source\repos\WebApplicationTest\WebApplicationTest\obj\Debug\netcoreapp2.1\WebApplicationTest.pdb
